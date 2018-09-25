@@ -27,7 +27,7 @@ DEFINE_string(rtk_adapter_config_file,
               "rtk adapter configuration");
 
 DEFINE_string(localization_config_file,
-              "modules/localization/conf/localization_config.pb.txt",
+              "modules/localization/conf/navi_localization_config.pb.txt",
               "localization config file");
 
 DEFINE_string(msf_adapter_config_file,
